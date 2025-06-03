@@ -1,8 +1,0 @@
-CREATE TABLE pos_venda(
-id INT PRIMARY KEY AUTO_INCREMENT,
-nome VARCHAR(45) NOT NULL,
-telefone BIGINT(15),
-
-
-);
-
